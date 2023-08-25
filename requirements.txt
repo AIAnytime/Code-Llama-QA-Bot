@@ -1,0 +1,6 @@
+CTransformers
+streamlit
+gradio
+langchain
+fastapi
+uvicorn
